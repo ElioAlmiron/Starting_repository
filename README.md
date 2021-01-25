@@ -15,4 +15,6 @@ Graduated in Industrial Engineering in UFSCar (Universidade Federal de São Carl
 
 Excel, Access, Python and R.
 
+Portuguese and English.
+
 **LinkedIn**: https://www.linkedin.com/in/elioalmiron1/
